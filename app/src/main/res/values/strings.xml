@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoMatchingApp</string>
+    <string name="new_account">会員登録</string>
+    <string name="display_name">名前</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+</resources>
